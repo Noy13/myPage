@@ -1,0 +1,9 @@
+body{
+	background-color: rgba(255,53,53,0.7);
+	text-align:center;
+	margin: 100px;
+	padding:50px;
+}
+#showAnswer{
+	display:none;
+}
